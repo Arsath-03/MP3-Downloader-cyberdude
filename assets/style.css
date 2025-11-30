@@ -1,0 +1,64 @@
+body {
+    background-color: #0b0f1a;
+    color: #e8f1ff;
+    font-family: 'Poppins', sans-serif;
+}
+
+        
+.navbar {
+    background: #0d1b2a;
+}
+
+       
+.hero {
+    background: #1b263b;
+    padding: 120px 20px;
+    text-align: center;
+    color: #cfe0ff;
+}
+
+.btn-download {
+    background-color: #4da3ff;
+    border: none;
+    font-weight: 600;
+}
+
+.btn-download:hover {
+    background-color: #1d8bff;
+}
+
+        
+.feature-card {
+    background: #112031;
+    border: 1px solid #1b3a57;
+    transition: 0.3s;
+}
+
+.feature-card:hover {
+    transform: translateY(-6px);
+    border-color: #4da3ff;
+}
+
+        
+#guide {
+    background: linear-gradient(135deg, #0d1b2a, #1b263b);
+}
+
+.step-box {
+    background: #112031;
+    border: 1px solid #1b3a57;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.step-number {
+    color: #4da3ff;
+    font-size: 35px;
+    font-weight: bold;
+        }
+
+footer {
+    background: #0d1b2a;
+    color: #98b4ce;
+    padding: 15px 0;
+}
